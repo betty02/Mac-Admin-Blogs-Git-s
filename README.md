@@ -26,9 +26,16 @@ List of awesome mac adminy style blogs, apps and gits I have found suefull voer 
 - [Recipe Robot](https://github.com/homebysix/recipe-robot) - Easy AutoPKG recipe creator.
 - [Install or Defer](https://github.com/homebysix/install-or-defer) - JSS script to prompt users updates are available and give the option to defer for X amount of time before it is forced.
 - [NoMAD](https://gitlab.com/Mactroll/NoMAD) - AD Password tool + much much more.
+- [SplashBuddy](https://github.com/ftiff/SplashBuddy) - DEP splashscreen to show installation progress.
+
 ### Plugins
 
 - [Jackalope](http://jackalope-slack.readthedocs.io/en/latest/index.html) - Slack pluging to show JSS information in channels/
+
+### JSS Scripts
+
+- [Casper Check](https://github.com/rtrouton/CasperCheck) - Periodic casper check-in fix/tool.
+- [Patchoo](https://github.com/franton/patchoo) - User GUI patching script.
 
 ### Blogs
 
