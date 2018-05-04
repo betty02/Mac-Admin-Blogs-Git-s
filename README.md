@@ -25,14 +25,24 @@ List of awesome mac adminy style blogs, apps and gits I have found suefull voer 
 - [The MUT](http://jssmut.weebly.com/) - The JSS Mas Upload Tool app to easily mass update items in the JSS.
 - [Recipe Robot](https://github.com/homebysix/recipe-robot) - Easy AutoPKG recipe creator.
 - [Install or Defer](https://github.com/homebysix/install-or-defer) - JSS script to prompt users updates are available and give the option to defer for X amount of time before it is forced.
+- [NoMAD](https://gitlab.com/Mactroll/NoMAD) - AD Password tool + much much more.
+### Plugins
+
+- [Jackalope](http://jackalope-slack.readthedocs.io/en/latest/index.html) - Slack pluging to show JSS information in channels/
 
 ### Blogs
 
-- [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux). ![PythonIcon]
+- [Der Flounder](http://derflounder.wordpress.com/) - Der Flounder Blog
+- [MacMule](http://macmule.com/) - MacMule Blog
+- [Mac Lovin'](http://maclovin.org/) - Mac Lovin' Blog
+- [Sachin Parmar](http://sachinparmarblog.com/) - Sachin Parmar Blog
+- [Mac Brained](http://www.macbrained.org/) - Mac Brained Blog
+- [MODTitan](http://www.modtitan.com/search/label/mac%20admin) - MODTitan Blog
 
 ### Git's
 
-- [Brave Browser](https://github.com/brave/browser-laptop) - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux. ![JavascriptIcon]
+- [rtrouton](https://github.com/rtrouton) - rtrouton git.
+- [Homebysix](https://github.com/homebysix) - homebysix git.
 
 [CIcon]: ./icons/c-16.png "C language."
 [CppIcon]: ./icons/cpp-16.png "C++ language."
