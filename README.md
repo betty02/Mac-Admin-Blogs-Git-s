@@ -9,7 +9,7 @@ List of awesome mac adminy style blogs, apps and gits I have found suefull voer 
 ## Contents
 - [Apps](#apps)
 	- [Plugins](#plugins)
-- [JSS Scripts](#jssscripts)
+- [JSS Scripts](#scripts)
 - [Blogs](#blogs)
 - [Git's](#gits)
 
@@ -32,7 +32,7 @@ List of awesome mac adminy style blogs, apps and gits I have found suefull voer 
 
 - [Jackalope](http://jackalope-slack.readthedocs.io/en/latest/index.html) - Slack pluging to show JSS information in channels/
 
-### JSS Scripts
+### Scripts
 
 - [Casper Check](https://github.com/rtrouton/CasperCheck) - Periodic casper check-in fix/tool.
 - [Patchoo](https://github.com/franton/patchoo) - User GUI patching script.
