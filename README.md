@@ -4,7 +4,7 @@
 
 # Just a general gathering ground for my Jamf and Mac Admin blog links, apps and Git links. 
 
-List of awesome mac adminy style blogs, apps and gits I have found suefull voer the past few months. Just a little dumping ground really!
+List of awesome mac adminy style blogs, apps and gits I have found suefull voer the past few months. Just a little dumping ground really! If you want anything adding here let me know and I will have it sorted!
 
 ## Contents
 - [Apps](#apps)
